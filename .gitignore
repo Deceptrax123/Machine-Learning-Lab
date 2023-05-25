@@ -1,6 +1,7 @@
 #virtual environment
 ./breast-cancer-diagonistic/.venv/
-
+./linear-regression/.venv/
+./knn-kidney-stone/.venv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
