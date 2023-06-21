@@ -3,6 +3,7 @@
 ./linear-regression/.venv/
 ./knn-kidney-stone/.venv
 ./naive-bayes-kidney-stone/.venv
+./decision_tree/.venv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
