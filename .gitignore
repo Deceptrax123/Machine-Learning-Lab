@@ -5,6 +5,8 @@
 ./naive-bayes-kidney-stone/.venv
 ./decision_tree/.venv
 ./MLP/.venv
+./KMEANS/.venv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
