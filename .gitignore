@@ -6,6 +6,7 @@
 ./decision_tree/.venv
 ./MLP/.venv
 ./KMEANS/.venv
+./svm-pca/.venv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
